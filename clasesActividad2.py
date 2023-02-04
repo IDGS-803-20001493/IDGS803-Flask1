@@ -32,11 +32,7 @@ class clasesActividad2():
 
         if(self.tarjeta == 1):
             self.total = self.total - (self.total * 0.10)
-37.8
-252
 
-214.2
-21.42
         
 
 
